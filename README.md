@@ -44,25 +44,21 @@ gmail 📨: khalidammarofficial@gmail.com
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     </td>
     <td>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     </td>
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     </td>
-  
-  </tr>
-  
-  <tr>
-    <td>
+  <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
     </td>
     <td>
@@ -73,6 +69,8 @@ gmail 📨: khalidammarofficial@gmail.com
     </td>
   
   </tr>
+  
+  
 </table>
 <br/>
 
