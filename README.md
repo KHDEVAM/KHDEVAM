@@ -1,4 +1,4 @@
-## Hi, I'm Junior Full Stack developer 👋
+## Hi, I'm a Junior Web Full Stack developer 👋
 
 gmail 📨: khalidammarofficial@gmail.com
 <br />
