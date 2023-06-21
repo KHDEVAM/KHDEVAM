@@ -17,7 +17,7 @@ I'm a junior web full stack developer👨‍💻 from Morocco ! Im'really passio
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
 
-<div style="display: justify-content">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -48,8 +48,8 @@ I'm a junior web full stack developer👨‍💻 from Morocco ! Im'really passio
 ### ⚙️ &nbsp;Some Stats
 
 <p align="left">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=KHDEVAM&show_icons=true&theme=algolia&hide_border=true" />
-  <img width="499px" src="https://github-readme-streak-stats.herokuapp.com/?user=KHDEVAM&theme=algolia&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KHDEVAM&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KHDEVAM&theme=algolia&hide_border=true" />
 </p>
 <br>
 
