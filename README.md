@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile%2C+I'+m+Khalid)](https://git.io/typing-svg)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%" height="300px">
+
 ## Hi, I'm [Khalid!!](https://github.com/KHDEVAM/) Junior Web Full Stack developer & SE student👋
 
 I'm a junior web full stack developer👨‍💻 from Morocco ! Im'really passionate about tech and programming, and I love to learn new things🤩. I love to take the lead and explore new feilds🤓. Solving real-life problems is what I want to enjoy the most, and I wish that I can have an enjoyable😁career and a great professional expreinces😎that test the limits of my skills✨.
