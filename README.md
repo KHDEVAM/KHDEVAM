@@ -4,7 +4,7 @@
 
 ## Hi, I'm [Khalid!!](https://github.com/KHDEVAM/) Junior Web Full Stack developer & SE student👋
 
-I'm a junior web full stack developer👨‍💻 from Morocco ! I'm really passionate about tech and programming, and I love to learn new things🤩. I love to take the lead and explore new feilds🤓. Solving real-life problems is what I want to enjoy the most, and I wish that I can have an enjoyable😁career and a great professional expreinces😎that test the limits of my skills✨.
+I'm a junior web full stack developer👨‍💻 from Morocco ! I'm really passionate about tech and programming, and I love to learn new things🤩. I love to take the lead and explore new feilds🤓. Solving real-life problems is what enjoy the most, and I wish that I can have an enjoyable😁career and a great professional expreinces😎that test the limits of my skills✨.
 
 ## My Contact infos
 
