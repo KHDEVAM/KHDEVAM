@@ -4,11 +4,7 @@
 
 ## Hi, I'm [Khalid!!](https://github.com/KHDEVAM/) Junior Web Full Stack developer & SE student👋
 
-👋 Hi there! I'm a junior web full stack developer from Morocco 🇲🇦, and I'm on a mission to turn my passion for code into real-world solutions. 💻 <br/>
-🌟 I'm all about that "learn, build, repeat" life! Each day, I embrace the opportunity to explore new technologies and expand my skillset. 🚀 <br/>
-💡 Solving real-life problems is where I truly shine. Whether it's crafting elegant code, optimizing user experiences, or debugging like a detective, I'm up for the challenge. 🔍🛠️ <br/>
-🌍 I'm constantly amazed by the global tech community, and I can't wait to connect with like-minded individuals and collaborate on exciting projects. Let's code, learn, and grow together! 🤝🌐 <br/>
-🔮 The future holds endless possibilities, and I'm here to test the limits of my skills and create a career filled with memorable professional experiences. Feel free to explore my repos, reach out for a chat, or connect with me on any tech topic you're passionate about. Let's build something awesome! 😄✨
+👨‍💻 Junior Full Stack Developer 🌍 Based in Morocco 🚀 Passionate about Tech & Programming 🤓 Lifelong Learner 💡 Problem Solver 😁 Enthusiastic about Building Solutions ✨ Seeking New Challenges 🌟 Dedicated to Professional Growth. Welcome to my GitHub profile! I'm a junior web full stack developer from Morocco with a deep-seated passion for technology and programming. I thrive on exploring new fields, pushing my skills to the limits, and creating meaningful applications that make a positive impact. My journey in the tech world is driven by a genuine love for solving real-life problems through innovative solutions. Join me in my quest for an enjoyable career filled with exciting opportunities that test the boundaries of my abilities. Let's collaborate and make the digital world a better place together! 😎💪 Feel free to explore my repositories and don't hesitate to reach out for collaborations, discussions, or simply to connect with a fellow tech enthusiast. 🤝✉️
 
 
 ## My Contact infos
