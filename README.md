@@ -13,32 +13,15 @@
   <a href="https://instagram.com/ka_coders" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/997994917253107733" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:khalidammarofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/khalid-ammar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/khalid-ammar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/KAsamadev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="50"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,express,nodejs,bootstrap,mongodb,php,laravel,c,py,linux,git,github,vscode)](https://skillicons.dev)
 <br>
 
 ### 💡 &nbsp; Interested in
@@ -48,8 +31,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 
-### ⚙️ &nbsp;Some Stats
+### ⚙️ &nbsp;Stars
 
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=KHDEVAM&theme=algolia" />
+</p>
 <p align="left">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KHDEVAM&show_icons=true&theme=algolia&hide_border=true" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KHDEVAM&theme=algolia&hide_border=true" />
@@ -58,10 +44,19 @@
 
 [![KHDEVAM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KHDEVAM&theme=tokyo-night)](https://github.com/KHDEVAM/github-readme-activity-graph)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/KHDEVAM">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KHDEVAM&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KHDEVAM&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KHDEVAM&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KHDEVAM&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHDEVAM&theme=algolia" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 <br />
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=KHDEVAM&theme=algolia"( https://github.com/KHDEVAM/github-profile-trophy) />
-</p>
+
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%, align:center"/>
 
