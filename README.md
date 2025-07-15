@@ -58,7 +58,7 @@
   
 <br />
 
-[My Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=13632&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=onedark)
+![My Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=13632&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=onedark)
 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%, align:center"/>
